@@ -1,6 +1,6 @@
 # 我的餐廳清單
 
-![IndexPage](./public/image/screenshot.PNG)
+![IndexPage](./public//restaurant_page.PNG)
 
 ## 介紹
 
@@ -10,9 +10,12 @@
 
 - 查看所有餐廳
 - 可參考推薦指數
-- 瀏覽餐廳詳細資訊
+- 瀏覽所有餐廳
 - 餐廳地址可連結至google地圖
+- 新增餐廳
 - 搜尋特定餐廳
+- 更新餐廳資訊
+- 刪除餐廳
 
 ## 使用說明
 
@@ -41,3 +44,5 @@ ctrl + c
 - Express-Handlebars 4.7.7
 - Bootstrap 4.3.1
 - Font-awesome 5.8.1
+- MongoDB
+- mongoose 5.9.7
