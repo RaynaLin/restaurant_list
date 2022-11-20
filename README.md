@@ -1,6 +1,6 @@
 # 我的餐廳清單
 
-![IndexPage](./public//restaurant_page.PNG)
+![IndexPage](./public/image/restaurant_page.PNG)
 
 ## 介紹
 
